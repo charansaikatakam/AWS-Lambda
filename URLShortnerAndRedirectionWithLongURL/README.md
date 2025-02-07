@@ -1,6 +1,6 @@
 # URL-shortner-store-to-DynamoDB
 
-This will shorten the URL with unique ID generation and stores the unique ID along with the coressponding long url.
+This will shorten the URL with unique ID generation and stores the unique ID along with the coressponding long url. When ever some one uses this shortURL we can redirect to main URL with the uniqueID at the end of the short URL
 
 # Requirements
 
